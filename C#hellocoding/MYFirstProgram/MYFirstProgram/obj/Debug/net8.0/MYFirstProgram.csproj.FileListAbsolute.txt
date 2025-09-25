@@ -1,0 +1,15 @@
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\bin\Debug\net8.0\MYFirstProgram.exe
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\bin\Debug\net8.0\MYFirstProgram.deps.json
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\bin\Debug\net8.0\MYFirstProgram.runtimeconfig.json
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\bin\Debug\net8.0\MYFirstProgram.dll
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\bin\Debug\net8.0\MYFirstProgram.pdb
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.AssemblyInfoInputs.cache
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.AssemblyInfo.cs
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.sourcelink.json
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.dll
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\refint\MYFirstProgram.dll
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.pdb
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\MYFirstProgram.genruntimeconfig.cache
+C:\Users\wosle\OneDrive\Desktop\git hub-homework\C#hellocoding\MYFirstProgram\MYFirstProgram\obj\Debug\net8.0\ref\MYFirstProgram.dll
